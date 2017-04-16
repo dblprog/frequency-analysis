@@ -1,0 +1,16 @@
+words            4
+and              3
+by               2
+word             2
+cruel            1
+distinct         1
+even             1
+every            1
+frequency        1
+mathematics      1
+more             1
+of               1
+separated        1
+single           1
+the              1
+was              1
